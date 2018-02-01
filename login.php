@@ -34,9 +34,9 @@
     		<option value="">Tiếng Tàu Khựa</option>
     	</select>
     	<ul class="help">
-    		<li>Trợ giúp</li>
-    		<li>Bảo mật</li>
-    		<li>Điều khoản</li>
+            <li><a href="">Trợ giúp</a></li>
+            <li><a href="">Bảo mật</a></li>
+    		<li><a href="">Điều khoản</a></li>
     	</ul>
     </div>
 </body>
