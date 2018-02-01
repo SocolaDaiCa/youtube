@@ -3,6 +3,7 @@
 	}
 
 	.navbar {
+		background: white;
 		position: sticky;
 	    min-width:1000px;
 	    box-shadow: 0 0 5px 1px;
@@ -103,7 +104,7 @@
 	    margin-left: 0;
 	}
 
-	.row:hover {
+	.message:hover {
 	    background: #e5e5e5 !important;
 	}
 

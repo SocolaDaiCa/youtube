@@ -15,7 +15,7 @@
             <div class="dropdown">
                 <button style="border:none; background: none; outline: none;" dropdown-toggle="" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><img style="width: 23px" src="/images/img.png" alt=""></button>
                 <div style="width: 300px; padding-top: 0px;" class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
-                    <div style="background: #e5e5e5" class="row">
+                    <div style="background: #e5e5e5" class="row message">
                         <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                             <img style="width: 40px;padding-top: 5px" src="../images/img.png" alt="">
                         </div>
@@ -29,7 +29,7 @@
                     <!--  -->
                     <div style="height: 400px; overflow-x: hidden; color: #888888;">
                         <a href="">
-                            <div style="background: none; margin-top: 5px;" class="row">
+                            <div style="background: none; margin-top: 5px;" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="fa fa-id-badge"></i>
                                 </div>
@@ -40,7 +40,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="fa fa-id-badge"></i>
                                 </div>
@@ -51,7 +51,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="fa fa-id-badge"></i>
                                 </div>
@@ -67,7 +67,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="fa fa-id-badge"></i>
                                 </div>
@@ -79,7 +79,7 @@
                         <hr>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="fa fa-moon-o"></i>
                                 </div>
@@ -95,7 +95,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="fa fa-cog"></i>
                                 </div>
@@ -106,7 +106,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="fa fa-question-circle"></i>
                                 </div>
@@ -117,7 +117,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <i class="glyphicon glyphicon-comment"></i>
                                 </div>
@@ -130,7 +130,7 @@
                         <!--  -->
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                                     <p>Ngôn ngữ: Tiếng Việt</p>
                                 </div>
@@ -142,7 +142,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                                     <p>Địa điểm: Việt Nam</p>
                                 </div>
@@ -154,7 +154,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                                     <p>Chế độ hạn chế: Tắt</p>
                                 </div>
@@ -166,7 +166,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="background: none" class="row">
+                            <div style="background: none" class="row message">
                                 <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                                     <p>Khôi phục YouTube cũ</p>
                                 </div>
@@ -196,7 +196,7 @@
                     <!--  -->
                     <div style="height: 338px;overflow-x: hidden;">
                         <a href="">
-                            <div style="padding-top: 10px;" class="row">
+                            <div style="padding-top: 10px;" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <img style="width: 48px;" src="../images/img.png" alt="">
                                 </div>
@@ -213,7 +213,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="padding-top: 10px;" class="row">
+                            <div style="padding-top: 10px;" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <img style="width: 48px;" src="../images/img.png" alt="">
                                 </div>
@@ -230,7 +230,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="padding-top: 10px;" class="row">
+                            <div style="padding-top: 10px;" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <img style="width: 48px;" src="../images/img.png" alt="">
                                 </div>
@@ -247,7 +247,7 @@
                         </a>
                         <!--  -->
                         <a href="">
-                            <div style="padding-top: 10px;" class="row">
+                            <div style="padding-top: 10px;" class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <img style="width: 48px;" src="../images/img.png" alt="">
                                 </div>
@@ -272,7 +272,7 @@
                 <button style="background: none; border:none;outline: none;" dropdown-toggle="" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="glyphicon glyphicon-th">
 					</i></button>
                 <div style="width: 250px;" class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
-                    <div class="row">
+                    <div class="row message">
                         <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                             <img src="" alt="">
                         </div>
@@ -282,7 +282,7 @@
                         </div>
                     </div>
                     <!--  -->
-                    <div class="row">
+                    <div class="row message">
                         <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                             <img src="" alt="">
                         </div>
@@ -293,7 +293,7 @@
                     </div>
                     <hr>
                     <!--  -->
-                    <div class="row">
+                    <div class="row message">
                         <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                             <img src="" alt="">
                         </div>
@@ -303,7 +303,7 @@
                         </div>
                     </div>
                     <!--  -->
-                    <div class="row">
+                    <div class="row message">
                         <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                             <img src="" alt="">
                         </div>
@@ -314,7 +314,7 @@
                     </div>
                     <hr>
                     <!--  -->
-                    <div class="row">
+                    <div class="row message">
                         <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                             <img src="/images/youtube.png" alt="">
                         </div>
@@ -324,7 +324,7 @@
                         </div>
                     </div>
                     <!--  -->
-                    <div class="row">
+                    <div class="row message">
                         <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                             <img src="/images/youtube.png" alt="">
                         </div>
@@ -342,7 +342,7 @@
     <!-- Menu hide -->
     <div id="mySidenav" class="sidenav">
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -354,7 +354,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -366,7 +366,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -382,7 +382,7 @@
             <p style="padding-left: 15px;"><b>THƯ VIỆN</b></p>
         </div>
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -394,7 +394,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -406,7 +406,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -418,7 +418,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -433,7 +433,7 @@
         <div>
             <h4>ĐĂNG KÍ</h4></div>
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -445,7 +445,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -457,7 +457,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -469,7 +469,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -482,7 +482,7 @@
         <hr>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -495,7 +495,7 @@
         <hr>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -507,7 +507,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
@@ -519,7 +519,7 @@
         </a>
         <!--  -->
         <a href="">
-            <div class="row">
+            <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                     <i class="glyphicon glyphicon-home"></i>
                 </div>
