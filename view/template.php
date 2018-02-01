@@ -13,7 +13,7 @@
 <body>
     <?php require_once __DIR__ . '/view/navbar.php'; ?>
     <div id="content">
-        list video
+        ádas
     </div>
 </body>
 
