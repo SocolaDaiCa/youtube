@@ -5,11 +5,11 @@
             <button class="" style="border:none; background: none;outline: none;" id="show-menu"><i class="fa fa-navicon"></i></button>
         </li>
         <!--  -->
-        <li><a href="" style="text-decoration: none; color: black;"><i class="fa fa-youtube-play logo"></i>  <b><span>Youtube</span></b><sup>VN</sup></a></li>
+        <li><img style="width: 90px;padding-bottom: 5px; " src="../images/LG.png" alt=""> <sup>VN</sup></li>
         <!--  -->
         <li class="search">
-            <input type="text" placeholder="Tìm kiếm">
-            <button style="float: right;"><i class="fa fa-search ic-search"></i></button><i style="float: right;" class="fa fa-keyboard-o"></i></li>
+            <input id="ip_search" type="text" placeholder="Tìm kiếm">
+            <button id="btn-search" style="float: right;"><i class="fa fa-search ic-search"></i></button><i style="float: right;" class="fa fa-keyboard-o"></i></li>
         <!--  -->
         <li class="right user">
             <div class="dropdown">
@@ -431,7 +431,7 @@
         <hr>
         <!--  -->
         <div>
-            <h4>ĐĂNG KÍ</h4></div>
+            <p style="padding-left: 15px;"><b>ĐĂNG KÍ</b></p></div>
         <a href="">
             <div class="row message">
                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
