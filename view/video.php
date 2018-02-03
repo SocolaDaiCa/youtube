@@ -34,8 +34,8 @@
 	</div>
 	<div class="infomation-channel pull-left">
 		<div class="name-channel">
-			<span>VETV7 ESPORTS</span><br>
-			<span>Xuất bản 2 thg 2, 2018</span>
+			<span class="name">VETV7 ESPORTS</span><br>
+			<span class="publish">Xuất bản 2 thg 2, 2018</span>
 		</div>
 	</div>
 	<div class="subscribe-channel pull-left">

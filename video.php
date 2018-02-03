@@ -19,7 +19,7 @@
         .left{
             width: 60%;
             padding-left: 10px;
-            height: 1000px;
+            height: 900px;
         }
         .right{
             padding-left: 30px;
