@@ -7,21 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php require_once __DIR__ . '/view/css.php'; ?>
     <?php require_once __DIR__ . '/view/js.php'; ?>
-    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/registration.css">
     <!-- <link rel="stylesheet" type="text/css" href="/css/index.css"> -->
 </head>
 
 <body>
     <div id="content">
         <img class="logo" src="images/LG.png" alt=""><br>
-        <h3>Đăng nhập</h3>
-        <p>Tiếp tục với YouTube</p> <br><br>
+        <h3>Đăng kí</h3>
+        <p>Tiếp tục với YouTube</p> <br>
         <p>Email</p>
         <input type="text" class="form-control">
         <p>Mật khẩu</p>
+        <input type="password" class="form-control">
+        <p>Xác nhận mật khẩu</p>
         <input type="password" class="form-control"><br>
-        <a href="">Bạn quên mật khẩu?</a><br> <br>
-        <button class="next"><b>TIẾP THEO</b></button>
+        <button class="next"><b>ĐĂNG KÍ</b></button>
     </div>
     <div class="under">
     	<select class="langue" name="" id="">
