@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/css/navbar.css">
 <div class="navbar navbar-fixed-top">
     <ul class="menu">
         <li>

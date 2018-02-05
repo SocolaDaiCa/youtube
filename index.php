@@ -22,7 +22,7 @@
         <?php require_once __DIR__ . '/view/js.php'; ?>
         <link rel="stylesheet" href="/css/index.css">
 
-        <link rel="stylesheet" href="/css/navbar.css">
+        
         <!-- <link rel="stylesheet" type="text/css" href="/css/index.css"> -->
     </head>
     <body>
