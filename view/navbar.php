@@ -1,30 +1,26 @@
-<link rel="stylesheet" href="/css/navbar.css">
 <div class="navbar navbar-fixed-top">
     <ul class="menu">
         <li>
-            <button class="" style="border:none; background: none;outline: none;" id="show-menu"><i class="fa fa-navicon"></i></button>
+            <button class="" style="border:none; background: none;outline: none;" id="show-menu"><i
+                        class="fa fa-navicon"></i></button>
         </li>
         <!--  -->
-<<<<<<< HEAD
         <li><img style="width: 90px;padding-bottom: 5px; " src="../images/LG.png" alt=""> <sup>VN</sup></li>
         <!--  -->
         <li class="search">
             <input id="ip_search" type="text" placeholder="Tìm kiếm">
-            <button id="btn-search" style="float: right;"><i class="fa fa-search ic-search"></i></button><i style="float: right;" class="fa fa-keyboard-o"></i></li>
-=======
-        <li><a href="../index.php" style="text-decoration: none; color: black;"><i class="fa fa-youtube-play logo"></i>  <b><span>Youtube</span></b><sup>VN</sup></a></li>
-        <!--  -->
-        <li class="search">
-            <input type="text" placeholder="Tìm kiếm">
-        <button style="float: right;"><i class="fa fa-search ic-search"></i></button><i style="float: right;" class="fa fa-keyboard-o"></i></li>
->>>>>>> d3e535c3e1a9fd28d48e274a7f4d6e3323fa551b
+            <button id="btn-search" style="float: right;"><i class="fa fa-search ic-search"></i></button>
+            <i style="float: right;" class="fa fa-keyboard-o"></i></li>
         <!--  -->
         <li class="pull-right">
             <ul>
                 <li class="right user">
                     <div class="dropdown">
-                        <button style="border:none; background: none; outline: none;" dropdown-toggle="" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><img style="width: 23px" src="/images/img.png" alt=""></button>
-                        <div style="width: 300px; padding-top: 0px;" class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
+                        <button style="border:none; background: none; outline: none;" dropdown-toggle="" type="button"
+                                id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><img
+                                    style="width: 23px" src="/images/img.png" alt=""></button>
+                        <div style="width: 300px; padding-top: 0px;" class="dropdown-menu dropdown-menu-right"
+                             aria-labelledby="dropdownMenu1">
                             <div style="background: #e5e5e5" class="row message">
                                 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                                     <img style="width: 40px;padding-top: 5px" src="../images/img.png" alt="">
@@ -82,7 +78,7 @@
                                             <i class="fa fa-id-badge"></i>
                                         </div>
                                         <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
-                                           <a href="logout.php"> Đăng xuất</a>
+                                            <a href="logout.php"> Đăng xuất</a>
                                         </div>
                                     </div>
                                 </a>
@@ -194,13 +190,16 @@
                 <!--  -->
                 <li class="right">
                     <div class="dropdown">
-                        <button style="border:none;background: none;outline: none;" dropdown-toggle="" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="glyphicon glyphicon-bell">
-                        </i></button>
+                        <button style="border:none;background: none;outline: none;" dropdown-toggle="" type="button"
+                                id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i
+                                    class="glyphicon glyphicon-bell">
+                            </i></button>
                         <div class="dropdown-menu dropdown-menu-right bell" aria-labelledby="dropdownMenu1">
                             <div class="drop-head">
                                 <ul>
                                     <li>Thông báo</li>
-                                    <li style="float: right; padding-right: 10px;"><a href=""><i class="fa fa-cog"></i></a></li>
+                                    <li style="float: right; padding-right: 10px;"><a href=""><i class="fa fa-cog"></i></a>
+                                    </li>
                                 </ul>
                             </div>
                             <!--  -->
@@ -212,7 +211,8 @@
                                         </div>
                                         <!--  -->
                                         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <p style="color: #909090">3 thg 1, 2018</p>
                                         </div>
                                         <!--  -->
@@ -229,7 +229,8 @@
                                         </div>
                                         <!--  -->
                                         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <p style="color: #909090">3 thg 1, 2018</p>
                                         </div>
                                         <!--  -->
@@ -246,7 +247,8 @@
                                         </div>
                                         <!--  -->
                                         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <p style="color: #909090">3 thg 1, 2018</p>
                                         </div>
                                         <!--  -->
@@ -263,7 +265,8 @@
                                         </div>
                                         <!--  -->
                                         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                             <p style="color: #909090">3 thg 1, 2018</p>
                                         </div>
                                         <!--  -->
@@ -279,9 +282,12 @@
                 <!--  -->
                 <li class="right th">
                     <div class="dropdown">
-                        <button style="background: none; border:none;outline: none;" dropdown-toggle="" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="glyphicon glyphicon-th">
-                        </i></button>
-                        <div style="width: 250px;" class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
+                        <button style="background: none; border:none;outline: none;" dropdown-toggle="" type="button"
+                                id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i
+                                    class="glyphicon glyphicon-th">
+                            </i></button>
+                        <div style="width: 250px;" class="dropdown-menu dropdown-menu-right"
+                             aria-labelledby="dropdownMenu1">
                             <div class="row message">
                                 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                                     <img src="" alt="">
@@ -350,275 +356,6 @@
                     <a href="upload.php"><i class="glyphicon glyphicon-open"></i></a>
                 </li>
             </ul>
-        </div>
-        <!-- Menu hide -->
-        <div id="mySidenav" class="sidenav">
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Trang chủ
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Thịnh hành
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Đăng kí
-                    </div>
-                </div>
-            </a>
-            <hr>
-            <!--  -->
-            <div>
-                <p style="padding-left: 15px;"><b>THƯ VIỆN</b></p>
-            </div>
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Lịch sử
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Xem sau
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Web Develome...
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Video được đánh...
-                    </div>
-                </div>
-<<<<<<< HEAD
-            </div>
-        </a>
-        <hr>
-        <!--  -->
-        <div>
-            <p style="padding-left: 15px;"><b>ĐĂNG KÍ</b></p></div>
-        <a href="">
-            <div class="row message">
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                    <i class="glyphicon glyphicon-home"></i>
-                </div>
-                <!--  -->
-                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                    Thịnh hành
-                </div>
-            </div>
-        </a>
-        <!--  -->
-        <a href="">
-            <div class="row message">
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                    <i class="glyphicon glyphicon-home"></i>
-                </div>
-                <!--  -->
-                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                    Admin YouTube 1
-                </div>
-            </div>
-        </a>
-        <!--  -->
-        <a href="">
-            <div class="row message">
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                    <i class="glyphicon glyphicon-home"></i>
-                </div>
-                <!--  -->
-                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                    Admin YouTube 2
-                </div>
-            </div>
-        </a>
-        <!--  -->
-        <a href="">
-            <div class="row message">
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                    <i class="glyphicon glyphicon-home"></i>
-                </div>
-                <!--  -->
-                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                    Admin YouTube 3
-                </div>
-            </div>
-        </a>
-        <hr>
-        <!--  -->
-        <a href="">
-            <div class="row message">
-                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                    <i class="glyphicon glyphicon-home"></i>
-=======
-            </a>
-            <hr>
-            <!--  -->
-            <div>
-            <h4>ĐĂNG KÍ</h4></div>
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Thịnh hành
-                    </div>
->>>>>>> d3e535c3e1a9fd28d48e274a7f4d6e3323fa551b
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Admin YouTube 1
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Admin YouTube 2
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Admin YouTube 3
-                    </div>
-                </div>
-            </a>
-            <hr>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Xem qua kênh
-                    </div>
-                </div>
-            </a>
-            <hr>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Cài đặt
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Trợ giúp
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <a href="">
-                <div class="row message">
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                        <i class="glyphicon glyphicon-home"></i>
-                    </div>
-                    <!--  -->
-                    <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-                        Gửi phản hồi
-                    </div>
-                </div>
-            </a>
-            <!--  -->
-            <!--  -->
-        </div>
-        <script>
-        var flag = 0;
-        $(function() {
-        $("#show-menu").click(function() {
-        if (flag == 0) {
-        $("#mySidenav").width("240px");
-        $("#content").css('margin-left', '240px');
-        flag = 1;
-        } else {
-        $("#mySidenav").width("0");
-        $("#content").css('margin-left', "0");
-        flag = 0;
-        }
-        });
-        });
-        </script>
+        </li>
+    </ul>
+</div>

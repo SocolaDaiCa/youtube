@@ -21,11 +21,16 @@
         <?php require_once __DIR__ . '/view/css.php'; ?>
         <?php require_once __DIR__ . '/view/js.php'; ?>
         <link rel="stylesheet" href="/css/index.css">
+
+        <link rel="stylesheet" href="/css/navbar.css">
         <!-- <link rel="stylesheet" type="text/css" href="/css/index.css"> -->
     </head>
     <body>
         <?php require_once __DIR__ . '/view/navbar.php'; ?>
-        <div id="content">
+
+        <div style="display: table; width: 100%">
+        <?php require_once __DIR__ . '/view/sidebar.php'; ?>
+        <div id="content" style="display: table-cell">
             <?php foreach ($mangtheloai as $theloai): ?>
             <div class="head">
                 <div class="name">
@@ -58,6 +63,7 @@
             </div>
             <?php endforeach ?>
             <!--  -->
+        </div>
         </div>
     </body>
 </html>

@@ -9,7 +9,7 @@
 	    box-shadow: 0 0 5px 1px;
 	    border: none;
 	    border-radius: 0px;
-
+		margin-bottom: 0;
 	}
 
 	.menu {
@@ -177,3 +177,6 @@
 		.sidenav {padding-top: 15px;}
 		.sidenav a {font-size: 18px;}
 		}
+	.sidenav.show {
+		display: table-cell !important;
+	}
