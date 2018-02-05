@@ -5,11 +5,19 @@
             <button class="" style="border:none; background: none;outline: none;" id="show-menu"><i class="fa fa-navicon"></i></button>
         </li>
         <!--  -->
+<<<<<<< HEAD
+        <li><img style="width: 90px;padding-bottom: 5px; " src="../images/LG.png" alt=""> <sup>VN</sup></li>
+        <!--  -->
+        <li class="search">
+            <input id="ip_search" type="text" placeholder="Tìm kiếm">
+            <button id="btn-search" style="float: right;"><i class="fa fa-search ic-search"></i></button><i style="float: right;" class="fa fa-keyboard-o"></i></li>
+=======
         <li><a href="../index.php" style="text-decoration: none; color: black;"><i class="fa fa-youtube-play logo"></i>  <b><span>Youtube</span></b><sup>VN</sup></a></li>
         <!--  -->
         <li class="search">
             <input type="text" placeholder="Tìm kiếm">
         <button style="float: right;"><i class="fa fa-search ic-search"></i></button><i style="float: right;" class="fa fa-keyboard-o"></i></li>
+>>>>>>> d3e535c3e1a9fd28d48e274a7f4d6e3323fa551b
         <!--  -->
         <li class="pull-right">
             <ul>
@@ -431,6 +439,67 @@
                         Video được đánh...
                     </div>
                 </div>
+<<<<<<< HEAD
+            </div>
+        </a>
+        <hr>
+        <!--  -->
+        <div>
+            <p style="padding-left: 15px;"><b>ĐĂNG KÍ</b></p></div>
+        <a href="">
+            <div class="row message">
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                    <i class="glyphicon glyphicon-home"></i>
+                </div>
+                <!--  -->
+                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+                    Thịnh hành
+                </div>
+            </div>
+        </a>
+        <!--  -->
+        <a href="">
+            <div class="row message">
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                    <i class="glyphicon glyphicon-home"></i>
+                </div>
+                <!--  -->
+                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+                    Admin YouTube 1
+                </div>
+            </div>
+        </a>
+        <!--  -->
+        <a href="">
+            <div class="row message">
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                    <i class="glyphicon glyphicon-home"></i>
+                </div>
+                <!--  -->
+                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+                    Admin YouTube 2
+                </div>
+            </div>
+        </a>
+        <!--  -->
+        <a href="">
+            <div class="row message">
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                    <i class="glyphicon glyphicon-home"></i>
+                </div>
+                <!--  -->
+                <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+                    Admin YouTube 3
+                </div>
+            </div>
+        </a>
+        <hr>
+        <!--  -->
+        <a href="">
+            <div class="row message">
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                    <i class="glyphicon glyphicon-home"></i>
+=======
             </a>
             <hr>
             <!--  -->
@@ -445,6 +514,7 @@
                     <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                         Thịnh hành
                     </div>
+>>>>>>> d3e535c3e1a9fd28d48e274a7f4d6e3323fa551b
                 </div>
             </a>
             <!--  -->

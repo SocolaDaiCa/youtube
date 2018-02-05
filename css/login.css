@@ -23,7 +23,7 @@ body{
 #content a{
 	text-decoration: none;
 }
-.next{
+.login{
 	font-size: 15px;
 	color: white;
 	background: #4285f4;
@@ -33,6 +33,10 @@ body{
 	height: 36px;
 	border-radius: 3px;
 	box-shadow: 0px 4px 5px #ddd;
+}
+.create{
+	float: left;
+	padding-top: 5px;
 }
 .under{
 	padding-top: 24px;

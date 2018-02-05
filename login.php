@@ -81,13 +81,14 @@
     <div id="content">
         <img class="logo" src="images/LG.png" alt=""><br>
         <h3>Đăng nhập</h3>
-        <p>Tiếp tục với YouTube</p> <br><br>
+        <p>Tiếp tục với YouTube</p> <br>
         <p>Email</p>
         <input type="text" class="form-control">
         <p>Mật khẩu</p>
         <input type="password" class="form-control"><br>
         <a href="">Bạn quên mật khẩu?</a><br> <br>
-        <button class="next"><b>TIẾP THEO</b></button>
+        <div class="create" ><a href="">Tạo tài khoản mới</a></div>
+        <button class="login"><b>ĐĂNG NHẬP</b></button>
     </div>
     <div class="under">
     	<select class="langue" name="" id="">

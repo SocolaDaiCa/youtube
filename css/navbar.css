@@ -40,7 +40,7 @@
 	/**/
 
 	.search {
-		margin-top: -4px;
+		margin-top: 0px;
 		width: 30%;
 		min-width: 350px;
 	    margin-left: 70px !important;
@@ -67,7 +67,6 @@
 	}
 
 	.search input {
-	    /*width: 547px;*/
 	    width: 70%;
 	    outline: none;
 	    padding-left: 10px;
