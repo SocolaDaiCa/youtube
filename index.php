@@ -1,17 +1,3 @@
-<?php 
-    require_once 'connect.php';
-    $query = "select ten_channel,ma_channel from channel";
-    $result = $conn->query($query);
-    $mangchannel = [];
-    if($result->num_rows > 0){
-        while ($row = $result->fetch_assoc()) {
-            # code...
-            array_push($mangchannel, $row);
-        }
-    }
-    
- ?>
-
 <!DOCTYPE html>
 <html>
     <head>

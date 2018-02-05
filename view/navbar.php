@@ -6,7 +6,7 @@
                         class="fa fa-navicon"></i></button>
         </li>
         <!--  -->
-        <li><a href="/"><img style="width: 90px;padding-bottom: 5px; " src="../images/LG.png" alt=""> <sup>VN</sup></a></li>
+        <li><a href="/"><img style="width: 90px;padding-bottom: 5px; " src="../images/LG.png" alt=""></a><sup>VN</sup></li>
         <!--  -->
         <li class="search">
             <input id="ip_search" type="text" placeholder="Tìm kiếm">
