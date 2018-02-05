@@ -339,7 +339,7 @@
                         </div>
                 </li>
                 <li class="right">
-                    <a href=""><i class="glyphicon glyphicon-open"></i></a>
+                    <a href="upload.php"><i class="glyphicon glyphicon-open"></i></a>
                 </li>
             </ul>
         </div>

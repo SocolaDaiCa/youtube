@@ -2,7 +2,7 @@
     require_once 'connect.php';
     session_start();
     if(!empty($_SESSION['email'])){
-        header('Location: Home.php');
+        header('Location: index.php');
     }
     if(isset($_POST['btnLogin'])) {
         $email = htmlspecialchars($_POST['email']);
@@ -21,7 +21,6 @@
 
 <!DOCTYPE html>
 <html>
-<<<<<<< HEAD
     <head>
         <title>YouTube</title>
         <meta charset="utf-8">
@@ -34,16 +33,16 @@
     <body>
         <form method="POST">
             <div id="content">
-                <img class="logo" src="images/google.png" alt=""><br>
+                <img class="logo" src="images/LG.png" alt=""><br>
                 <h3>Đăng nhập</h3>
-                <p>Tiếp tục với YouTube</p> <br><br>
+                <p>Tiếp tục với YouTube</p> <br>
                  <?php
                     if(isset($error)){
                         echo '<div class="alert alert-danger" role="alert">'.$error.'</div>';
                     }
                 ?>      
                 <p>Email</p>
-                <input type="text" name="email" class="form-control">
+                <input type="text" name="email" class="form-control" value="<?php if (isset($_GET['email'])) echo htmlspecialchars($_GET['email'])?>">
                 <p>Mật khẩu</p>
                 <input type="password" name="password" class="form-control"><br>
                 <a href="">Quên mật khẩu?</a><br> <br>
