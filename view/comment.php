@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="../css/comment.css">
 		<div class="comment">
 			<div class="number">
 				<div class="sum_number">1.000.000 nhận xét</div>
