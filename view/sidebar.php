@@ -1,5 +1,5 @@
 <!-- Menu hide -->
-<div id="mySidenav" class="sidenav" style="display: none; position: relative; min-width: 240px; width: 240px;">
+<div id="mySidenav" class="sidenav" style="display: none; min-width: 240px; width: 240px;">
     <a href="">
         <div class="row message">
             <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">

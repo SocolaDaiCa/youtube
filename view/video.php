@@ -1,3 +1,7 @@
+<?php 
+	require_once 'connect.php';
+	
+ ?>
 <link rel="stylesheet" href="/css/video.css">
 <div class="iframe-video">
 	<iframe src="https://www.youtube.com/embed/D8IXKTbYEig?" frameborder="0"></iframe>

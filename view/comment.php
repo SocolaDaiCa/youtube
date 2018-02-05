@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title></title>
-		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-		<link rel="stylesheet" href="../vendor/bootstrap-3.3.7-dist/css/bootstrap.min.css">
-		<script src="../vendor/jquery/jquery.min.js"></script>
-		<script src="../vendor/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-		<link rel="stylesheet" href="../css/comment.css">
-	</head>
-	<body>
+
 		<div class="comment">
 			<div class="number">
 				<div class="sum_number">1.000.000 nhận xét</div>
@@ -55,5 +43,3 @@
 			</div><br>
 			<?php endfor ?>
 		</div>
-	</body>
-</html>

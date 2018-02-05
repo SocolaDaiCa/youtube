@@ -1,12 +1,12 @@
 <?php 
     require_once 'connect.php';
-    $query = "select ten_tl,ma_tl from theloai";
+    $query = "select ten_channel,ma_channel from channel";
     $result = $conn->query($query);
-    $mangtheloai = [];
+    $mangchannel = [];
     if($result->num_rows > 0){
         while ($row = $result->fetch_assoc()) {
             # code...
-            array_push($mangtheloai, $row);
+            array_push($mangchannel, $row);
         }
     }
     
@@ -28,19 +28,20 @@
     <body>
         <?php require_once __DIR__ . '/view/navbar.php'; ?>
 
-        <div style="display: table; width: 100%">
+        <div style="max-width: 1400px; margin: 0 auto">
         <?php require_once __DIR__ . '/view/sidebar.php'; ?>
-        <div id="content" style="display: table-cell">
-            <?php foreach ($mangtheloai as $theloai): ?>
+        <div id="content">
+            <?php foreach ($mangchannel as $channel): ?>
             <div class="head">
                 <div class="name">
                     <img class="img_head" src="images/img.png" alt="">
-                    <span class="name_head"><?php  echo $theloai['ten_tl'] ?></span>
+                    <span class="name_head"><?php  echo $channel['ten_channel'] ?></span>
                 </div>
                 <div class="row">
                     <?php
 
-                        $query = "select name_video,channel.ten_channel,luot_xem from video,channel where video.ma_channel = channel.ma_channel and video.ma_tl = '{$theloai['ma_tl']}'";
+                        $query = "select name_video,channel.ten_channel,luot_xem from video,channel where video.ma_channel = channel.ma_channel and video.ma_channel = '{$channel['ma_channel']}' order by luot_xem limit 0,4";
+                        // echo $query."<br>";
                         $result = $conn->query($query);
                         $mang_video = [];
                         if($result->num_rows >0){

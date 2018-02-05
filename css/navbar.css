@@ -178,5 +178,5 @@
 		.sidenav a {font-size: 18px;}
 		}
 	.sidenav.show {
-		display: table-cell !important;
+		display: block !important;
 	}
